@@ -23,22 +23,22 @@ REQUISITES TO MAKE THE SCRIPT WORK:
 #    **
     // format finishes here
 
-Obviously, in this case, in your password file will have to be present the Linkedin service
+Obviously, in this case, in your password file the Linkedin service will have to be present
 at least.
 
-# WARNING: THE FILE FORMAT MUST BE ABSOLUTELY RESPECTED WITHOUT APPORTING ANY KIND OF        #          MODIFICATION. THIS INCLUDES ASTERISKS, WHITE SPACES, COLONS.
-#          THE ABSENCE OF THE MANDATORY FIELDS WILL ALSO CAUSE AN ERROR. 
+# WARNING: THE FILE FORMAT MUST BE ABSOLUTELY RESPECTED WITHOUT APPORTING ANY KIND OF MODIFICATION. THIS INCLUDES ASTERISKS, WHITE SPACES, COLONS.
+# THE ABSENCE OF THE MANDATORY FIELDS WILL ALSO CAUSE AN ERROR. 
 
 5 - The AutoLogin package must be copied and pasted in the site-packages folder of your 
     Python installation directory. This package will contain the module which AutoLinkedin will use to extract the data from your           password file.
 
 # WARNING: THIS LAST PASSAGE IS REQUIRED FOR THE CORRECT EXECUTION OF THE SCRIPT.
-#          DON'T FORGET IT !!
+# DON'T FORGET IT !!
 
 HOW TO USE THE SCRIPT:
 
 1 - Insert in the posts folder, the only textual post you want to pubblish. 
-#    The posts must be only of the .txt format. Other extensions will be ignored
+#   The posts must be only of the .txt format. Other extensions will be ignored
 
 2 - Insert in the shares folder, the images, the videos or the documents you want to             pubblish. You can add a description or an alternative text to them by inserting it in        the alts and descriptions folders. 
 #   The description or the alternative text must have the same name of the share you want to #   add them to.
