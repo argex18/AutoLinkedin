@@ -1,4 +1,4 @@
-# This is a script for a really basic automation of Linkedin which are going to permit you
+# This is a script for a really basic automation of Linkedin which is going to permit you
 # to automatically post or share contents on the social media.
 
 REQUISITES TO MAKE THE SCRIPT WORK:
