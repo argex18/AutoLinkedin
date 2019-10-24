@@ -1,5 +1,4 @@
-# This is a script for a really basic automation of Linkedin which is going to permit you
-# to automatically post or share contents on the social media.
+# This is a script for a really basic automation of Linkedin which is going to permit you to automatically post or share contents on the social media.
 
 REQUISITES TO MAKE THE SCRIPT WORK:
 
@@ -12,6 +11,7 @@ REQUISITES TO MAKE THE SCRIPT WORK:
 3 - Selenium Chrome Driver installed. For installing it, it will be sufficient download and then extract it in any directory. Link to download it: https://sites.google.com/a/chromium.org/chromedriver/
 
 4 - A file for containing the access data for your account. You can use the password file you would normally use for anything else, but you must respect the following format:
+
     // format starts here
 #    **
 #    SERVICE: name_of_the_service        // MANDATORY
@@ -30,7 +30,7 @@ at least.
 #          THE ABSENCE OF THE MANDATORY FIELDS WILL ALSO CAUSE AN ERROR. 
 
 5 - The AutoLogin package must be copied and pasted in the site-packages folder of your 
-    Python installation directory. This package will contain the module which AutoLinkedin will use to extract the data from your password file.
+    Python installation directory. This package will contain the module which AutoLinkedin will use to extract the data from your           password file.
 
 # WARNING: THIS LAST PASSAGE IS REQUIRED FOR THE CORRECT EXECUTION OF THE SCRIPT.
 #          DON'T FORGET IT !!
