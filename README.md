@@ -41,7 +41,7 @@ HOW TO USE THE SCRIPT:
 #   The posts must be only of the .txt format. Other extensions will be ignored
 
 2 - Insert in the shares folder, the images, the videos or the documents you want to             pubblish. You can add a description or an alternative text to them by inserting it in        the alts and descriptions folders. 
-#   The description or the alternative text must have the same name of the share you want to #   add them to.
+#   The description or the alternative text must have the same name of the share you want to add them to.
 #   The only acceptable format is the .txt one. Other extensions will be ignored.
 
 3 - Start the script by double clicking on auto_linkedin.py or by using via console:
